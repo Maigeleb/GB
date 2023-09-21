@@ -1,0 +1,15 @@
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.csproj.AssemblyReference.cache
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.AssemblyInfoInputs.cache
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.AssemblyInfo.cs
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.csproj.CoreCompileInputs.cache
+C:\Git\GB\FirstSeminar\Tsk08\bin\Debug\net6.0\Tsk08.exe
+C:\Git\GB\FirstSeminar\Tsk08\bin\Debug\net6.0\Tsk08.deps.json
+C:\Git\GB\FirstSeminar\Tsk08\bin\Debug\net6.0\Tsk08.runtimeconfig.json
+C:\Git\GB\FirstSeminar\Tsk08\bin\Debug\net6.0\Tsk08.dll
+C:\Git\GB\FirstSeminar\Tsk08\bin\Debug\net6.0\Tsk08.pdb
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.dll
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\refint\Tsk08.dll
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.pdb
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\Tsk08.genruntimeconfig.cache
+C:\Git\GB\FirstSeminar\Tsk08\obj\Debug\net6.0\ref\Tsk08.dll
