@@ -1,0 +1,15 @@
+C:\Git\GB\FourthSeminar\Task27\bin\Debug\net8.0\Task27.exe
+C:\Git\GB\FourthSeminar\Task27\bin\Debug\net8.0\Task27.deps.json
+C:\Git\GB\FourthSeminar\Task27\bin\Debug\net8.0\Task27.runtimeconfig.json
+C:\Git\GB\FourthSeminar\Task27\bin\Debug\net8.0\Task27.dll
+C:\Git\GB\FourthSeminar\Task27\bin\Debug\net8.0\Task27.pdb
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.AssemblyInfoInputs.cache
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.AssemblyInfo.cs
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.csproj.CoreCompileInputs.cache
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.sourcelink.json
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.dll
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\refint\Task27.dll
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.pdb
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\Task27.genruntimeconfig.cache
+C:\Git\GB\FourthSeminar\Task27\obj\Debug\net8.0\ref\Task27.dll

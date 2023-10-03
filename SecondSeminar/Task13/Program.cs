@@ -6,7 +6,7 @@ GetThirdDigit(Console.ReadLine());
 void GetThirdDigit(string input)
 {
     if (IsDigital(input) && HasThreeDigit(input))
-        Console.WriteLine($"Third digit: {input[2]}");
+            Console.WriteLine($"Third digit: {input[2]}");
 }
 
 bool IsDigital(string input) 

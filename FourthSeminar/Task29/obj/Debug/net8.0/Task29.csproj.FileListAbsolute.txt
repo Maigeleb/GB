@@ -1,0 +1,15 @@
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.AssemblyInfoInputs.cache
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.AssemblyInfo.cs
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.csproj.CoreCompileInputs.cache
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.sourcelink.json
+C:\Git\GB\FourthSeminar\Task29\bin\Debug\net8.0\Task29.exe
+C:\Git\GB\FourthSeminar\Task29\bin\Debug\net8.0\Task29.deps.json
+C:\Git\GB\FourthSeminar\Task29\bin\Debug\net8.0\Task29.runtimeconfig.json
+C:\Git\GB\FourthSeminar\Task29\bin\Debug\net8.0\Task29.dll
+C:\Git\GB\FourthSeminar\Task29\bin\Debug\net8.0\Task29.pdb
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.dll
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\refint\Task29.dll
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.pdb
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\Task29.genruntimeconfig.cache
+C:\Git\GB\FourthSeminar\Task29\obj\Debug\net8.0\ref\Task29.dll
