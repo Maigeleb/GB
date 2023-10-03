@@ -1,0 +1,15 @@
+C:\Git\GB\SecondSeminar\Task13\bin\Debug\net8.0\Task13.exe
+C:\Git\GB\SecondSeminar\Task13\bin\Debug\net8.0\Task13.deps.json
+C:\Git\GB\SecondSeminar\Task13\bin\Debug\net8.0\Task13.runtimeconfig.json
+C:\Git\GB\SecondSeminar\Task13\bin\Debug\net8.0\Task13.dll
+C:\Git\GB\SecondSeminar\Task13\bin\Debug\net8.0\Task13.pdb
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.AssemblyInfoInputs.cache
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.AssemblyInfo.cs
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.csproj.CoreCompileInputs.cache
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.sourcelink.json
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.dll
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\refint\Task13.dll
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.pdb
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\Task13.genruntimeconfig.cache
+C:\Git\GB\SecondSeminar\Task13\obj\Debug\net8.0\ref\Task13.dll
