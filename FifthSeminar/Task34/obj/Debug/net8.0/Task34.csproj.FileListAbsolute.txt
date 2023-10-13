@@ -1,0 +1,15 @@
+C:\Git\GB\FifthSeminar\Task34\bin\Debug\net8.0\Task34.exe
+C:\Git\GB\FifthSeminar\Task34\bin\Debug\net8.0\Task34.deps.json
+C:\Git\GB\FifthSeminar\Task34\bin\Debug\net8.0\Task34.runtimeconfig.json
+C:\Git\GB\FifthSeminar\Task34\bin\Debug\net8.0\Task34.dll
+C:\Git\GB\FifthSeminar\Task34\bin\Debug\net8.0\Task34.pdb
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.AssemblyInfoInputs.cache
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.AssemblyInfo.cs
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.csproj.CoreCompileInputs.cache
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.sourcelink.json
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.dll
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\refint\Task34.dll
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.pdb
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\Task34.genruntimeconfig.cache
+C:\Git\GB\FifthSeminar\Task34\obj\Debug\net8.0\ref\Task34.dll

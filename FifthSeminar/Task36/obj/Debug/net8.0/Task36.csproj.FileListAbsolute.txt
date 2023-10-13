@@ -1,0 +1,15 @@
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.AssemblyInfoInputs.cache
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.AssemblyInfo.cs
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.csproj.CoreCompileInputs.cache
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.sourcelink.json
+C:\Git\GB\FifthSeminar\Task36\bin\Debug\net8.0\Task36.exe
+C:\Git\GB\FifthSeminar\Task36\bin\Debug\net8.0\Task36.deps.json
+C:\Git\GB\FifthSeminar\Task36\bin\Debug\net8.0\Task36.runtimeconfig.json
+C:\Git\GB\FifthSeminar\Task36\bin\Debug\net8.0\Task36.dll
+C:\Git\GB\FifthSeminar\Task36\bin\Debug\net8.0\Task36.pdb
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.dll
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\refint\Task36.dll
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.pdb
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\Task36.genruntimeconfig.cache
+C:\Git\GB\FifthSeminar\Task36\obj\Debug\net8.0\ref\Task36.dll
