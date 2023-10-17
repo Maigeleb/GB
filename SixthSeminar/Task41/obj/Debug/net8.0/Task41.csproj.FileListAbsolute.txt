@@ -1,0 +1,15 @@
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.AssemblyInfoInputs.cache
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.AssemblyInfo.cs
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.csproj.CoreCompileInputs.cache
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.sourcelink.json
+C:\Git\GB\SixthSeminar\Task41\bin\Debug\net8.0\Task41.exe
+C:\Git\GB\SixthSeminar\Task41\bin\Debug\net8.0\Task41.deps.json
+C:\Git\GB\SixthSeminar\Task41\bin\Debug\net8.0\Task41.runtimeconfig.json
+C:\Git\GB\SixthSeminar\Task41\bin\Debug\net8.0\Task41.dll
+C:\Git\GB\SixthSeminar\Task41\bin\Debug\net8.0\Task41.pdb
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.dll
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\refint\Task41.dll
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.pdb
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\Task41.genruntimeconfig.cache
+C:\Git\GB\SixthSeminar\Task41\obj\Debug\net8.0\ref\Task41.dll

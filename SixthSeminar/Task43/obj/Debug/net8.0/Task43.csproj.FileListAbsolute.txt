@@ -1,0 +1,15 @@
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.AssemblyInfoInputs.cache
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.AssemblyInfo.cs
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.csproj.CoreCompileInputs.cache
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.sourcelink.json
+C:\Git\GB\SixthSeminar\Task43\bin\Debug\net8.0\Task43.exe
+C:\Git\GB\SixthSeminar\Task43\bin\Debug\net8.0\Task43.deps.json
+C:\Git\GB\SixthSeminar\Task43\bin\Debug\net8.0\Task43.runtimeconfig.json
+C:\Git\GB\SixthSeminar\Task43\bin\Debug\net8.0\Task43.dll
+C:\Git\GB\SixthSeminar\Task43\bin\Debug\net8.0\Task43.pdb
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.dll
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\refint\Task43.dll
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.pdb
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\Task43.genruntimeconfig.cache
+C:\Git\GB\SixthSeminar\Task43\obj\Debug\net8.0\ref\Task43.dll
