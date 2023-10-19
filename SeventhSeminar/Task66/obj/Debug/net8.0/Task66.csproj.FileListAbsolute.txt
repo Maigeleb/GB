@@ -1,0 +1,15 @@
+C:\Git\GB\SeventhSeminar\Task66\bin\Debug\net8.0\Task66.exe
+C:\Git\GB\SeventhSeminar\Task66\bin\Debug\net8.0\Task66.deps.json
+C:\Git\GB\SeventhSeminar\Task66\bin\Debug\net8.0\Task66.runtimeconfig.json
+C:\Git\GB\SeventhSeminar\Task66\bin\Debug\net8.0\Task66.dll
+C:\Git\GB\SeventhSeminar\Task66\bin\Debug\net8.0\Task66.pdb
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.AssemblyInfoInputs.cache
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.AssemblyInfo.cs
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.csproj.CoreCompileInputs.cache
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.sourcelink.json
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.dll
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\refint\Task66.dll
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.pdb
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\Task66.genruntimeconfig.cache
+C:\Git\GB\SeventhSeminar\Task66\obj\Debug\net8.0\ref\Task66.dll

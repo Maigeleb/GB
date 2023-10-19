@@ -1,0 +1,15 @@
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.AssemblyInfoInputs.cache
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.AssemblyInfo.cs
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.csproj.CoreCompileInputs.cache
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.sourcelink.json
+C:\Git\GB\SeventhSeminar\Task64\bin\Debug\net8.0\Task64.exe
+C:\Git\GB\SeventhSeminar\Task64\bin\Debug\net8.0\Task64.deps.json
+C:\Git\GB\SeventhSeminar\Task64\bin\Debug\net8.0\Task64.runtimeconfig.json
+C:\Git\GB\SeventhSeminar\Task64\bin\Debug\net8.0\Task64.dll
+C:\Git\GB\SeventhSeminar\Task64\bin\Debug\net8.0\Task64.pdb
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.dll
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\refint\Task64.dll
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.pdb
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\Task64.genruntimeconfig.cache
+C:\Git\GB\SeventhSeminar\Task64\obj\Debug\net8.0\ref\Task64.dll
